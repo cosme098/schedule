@@ -1,0 +1,18 @@
+.input{
+    color: aliceblue;
+    border: none;
+    border-bottom: 1.5px solid #FF0038;
+    padding: 10px;
+    background-color: transparent;
+    outline: none;
+    width: 50%;
+}
+.input:focus{
+    color: aliceblue;
+    /* font-size: larger; */
+    border-bottom: 1.5px solid #FF0038;
+    padding: 10px;
+    background-color: transparent;
+    transition: ease-in-out 0.1s;
+}
+
